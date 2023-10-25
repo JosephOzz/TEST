@@ -1,0 +1,12 @@
+C:\vs\TestAlcom\Solution\Application\bin\Debug\net6.0\Application.deps.json
+C:\vs\TestAlcom\Solution\Application\bin\Debug\net6.0\Application.dll
+C:\vs\TestAlcom\Solution\Application\bin\Debug\net6.0\Application.pdb
+C:\vs\TestAlcom\Solution\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs\TestAlcom\Solution\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\vs\TestAlcom\Solution\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\vs\TestAlcom\Solution\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\vs\TestAlcom\Solution\Application\obj\Debug\net6.0\Application.dll
+C:\vs\TestAlcom\Solution\Application\obj\Debug\net6.0\refint\Application.dll
+C:\vs\TestAlcom\Solution\Application\obj\Debug\net6.0\Application.pdb
+C:\vs\TestAlcom\Solution\Application\obj\Debug\net6.0\ref\Application.dll
+C:\vs\TestAlcom\Solution\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
